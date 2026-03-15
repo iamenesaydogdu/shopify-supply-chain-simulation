@@ -13,17 +13,17 @@ The simulation includes supplier sourcing, procurement planning, inventory manag
 
 # Supply Chain Flow
 
-Supplier (China)
-↓
-Fulfillment Warehouse (Toronto, Canada)
-↓
-Inventory Management (Shopify)
-↓
-Customer Orders
-↓
-Logistics & Transportation
-↓
-Customer Delivery
+1. Supplier (China)  
+↓  
+2. Fulfillment Warehouse (Toronto, Canada)  
+↓  
+3. Inventory Management (Shopify)  
+↓  
+4. Customer Orders  
+↓  
+5. Logistics & Transportation  
+↓  
+6. Customer Delivery
 
 ---
 
